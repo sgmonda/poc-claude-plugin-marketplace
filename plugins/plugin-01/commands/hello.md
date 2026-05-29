@@ -2,4 +2,4 @@
 description: Este comando es un ejemplo, bla bla bla
 ---
 
-Enumera el nombre de tres misiones espaciales, indicando el año en el que ocurrió el lanzamiento
+Enumera el nombre de tres presidentes del gobierno de España, indicando el año de nombramiento
