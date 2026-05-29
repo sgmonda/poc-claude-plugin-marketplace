@@ -1,0 +1,15 @@
+{
+  "name": "poc-claude-plugin-marketplace",
+  "owner": {
+    "name": "Pepito Pérez",
+    "email": "pepito@example.com"
+  },
+  "plugins": [
+    {
+      "name": "plugin-01",
+      "source": "./plugins/plugin-01",
+      "version": "0.1.0",
+      "description": "An experimental plugin"
+    }
+  ]
+}
