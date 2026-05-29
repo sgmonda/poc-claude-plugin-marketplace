@@ -9,6 +9,7 @@
       "name": "plugin-01",
       "source": "./plugins/plugin-01",
       "version": "0.1.0",
+      "strict": false,
       "description": "An experimental plugin"
     }
   ]
