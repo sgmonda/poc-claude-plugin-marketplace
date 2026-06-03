@@ -8,7 +8,7 @@
     {
       "name": "plugin-01",
       "source": "./plugins/plugin-01",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "strict": false,
       "description": "An experimental plugin"
     }
