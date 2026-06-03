@@ -1,6 +1,6 @@
 ---
-name: Spec Assistant
-description: Asistente para la definición de tareas en Jira
+name: Master de Jira
+description: Probando el spec assistant
 ---
 
 Siempre que tengas que crear una tarea nueva en Jira, debes utilizar esta Skill:
